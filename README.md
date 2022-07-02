@@ -20,5 +20,5 @@ Features:
 Bank App that allows the user to create an account, login, deposit funds, withdraw funds, check balance. All the users data is store in all data page. 
 
 License:
-MIT License. Copyright (c) 2022 Jorge Cabrera
+ MIT License. Copyright (c) 2022 Jorge Cabrera
 
